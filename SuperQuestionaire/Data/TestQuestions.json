@@ -1,0 +1,36 @@
+{
+  "Question1": {
+    "Questions": [
+      {
+        "Question": "What is your Lastname:",
+        "PropertyName": "Lastname",
+        "DataType": "string",
+        "Required": true
+      },
+      {
+        "Question": "What is your Firstname:",
+        "PropertyName": "Firstname",
+        "DataType": "string",
+        "Required": true
+      },
+      {
+        "Question": "What is your Date of Birth:",
+        "PropertyName": "DOB",
+        "DataType": "datetime",
+        "Required": true
+      },
+      {
+        "Question": "What is your Gender:",
+        "PropertyName": "Gender",
+        "DataType": "string",
+        "Required": false
+      },
+      {
+        "Question": "What is your e-mail:",
+        "PropertyName": "Email",
+        "DataType": "string",
+        "Required": true
+      }
+    ]
+  }
+}
